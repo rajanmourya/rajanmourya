@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanmourya
-- 👀 I’m interested in working Python
-- 🌱 I’m currently working in GCP, Python and Hadoop.
-- 💞️ I’m looking to collaborate on Flutter, Swift.
+- 👀 Currently playing with Loyalty Data
+- 🌱 Working in GCP, AWS, PySpark, Python, and Hadoop.
+- 💞️ Looking to collaborate on Flutter, Swift.
 - 📫 Reach me at rajanmourya2015@gmail.com
 
 <!---
